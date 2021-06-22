@@ -1,4 +1,4 @@
-# 💲 Dev.finances
+# 💰 Dev.finances
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
