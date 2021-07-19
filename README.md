@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/luccasscds/dev.finances/89d1ca2fe45d6b3b3031e723e9a0cf1c25242837/assets/logo.svg">
+# <img src="https://raw.githubusercontent.com/luccasscds/dev.finances/4aee2b9baae5b047691f895158588aae45a7f8a8/assets/logo.svg">
 
 ## 🎫 Evento
 Esse projeto foi desenvolvido na Maratona Discover.
